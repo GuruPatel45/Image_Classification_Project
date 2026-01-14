@@ -1,4 +1,4 @@
-# Ignore all files in dataset
+# Ignore everything inside dataset
 dataset/**/*
-# But keep .gitkeep files so Git tracks the folder structure
+# But keep folder placeholders
 !dataset/**/.gitkeep
