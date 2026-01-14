@@ -1,4 +1,2 @@
-# Ignore everything inside dataset
 dataset/**/*
-# But keep folder placeholders
 !dataset/**/.gitkeep
