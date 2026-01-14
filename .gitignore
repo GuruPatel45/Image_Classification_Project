@@ -1,2 +1,4 @@
-# Ignore dataset folder
-dataset/
+# Ignore all dataset files
+dataset/**/*
+# But keep folder structure
+!dataset/**/.gitkeep
