@@ -1,0 +1,35 @@
+IMAGE_CLASSIFICATION_PROJECT
+
+
+Dataset Source:
+The dataset used in this project is derived from the Microsoft Cats vs Dogs dataset,
+publicly available on Kaggle:
+
+https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
+
+This dataset is commonly used for educational and research purposes in
+computer vision and deep learning tasks.
+
+--------------------------------------------------
+
+Project Structure: It is the structure of the Image Classification project.
+
+Image_Classification_Project/
+├── dataset/
+│   ├── train/
+│   │   ├── cat/      -> Training images of cats
+│   │   └── dog/      -> Training images of dogs
+│   │
+│   └── test/
+│       ├── cat/      -> Testing images of cats
+│       └── dog/      -> Testing images of dogs
+│
+├── cat_dog_model.keras   -> Trained deep learning model
+
+
+--------------------------------------------------
+
+
+
+
+
